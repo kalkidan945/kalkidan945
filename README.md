@@ -16,7 +16,6 @@ I am a dedicated developer focused on **Frontend Engineering** and **Python Deve
 
 ### 📊 GitHub Activity
 ![Kalkidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalkidan945&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ---
 
 ### 🌟 Featured Projects
